@@ -4,18 +4,25 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
+    "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
+    "check": "astro check",
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/react": "^4.4.0",
     "ag-grid-community": "^34.2.0",
     "ag-grid-react": "^34.2.0",
     "astro": "^5.14.1",
     "exceljs": "^4.4.0",
     "lucide-react": "^0.544.0",
     "papaparse": "^5.5.3",
+    "powerbi-client": "^2.23.1",
     "powerbi-client-react": "^2.0.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-feather": "^2.0.10",
     "recharts": "^3.2.1"
   }
 }
