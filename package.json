@@ -9,6 +9,13 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.14.1"
+    "ag-grid-community": "^34.2.0",
+    "ag-grid-react": "^34.2.0",
+    "astro": "^5.14.1",
+    "exceljs": "^4.4.0",
+    "lucide-react": "^0.544.0",
+    "papaparse": "^5.5.3",
+    "powerbi-client-react": "^2.0.0",
+    "recharts": "^3.2.1"
   }
 }
